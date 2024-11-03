@@ -11,9 +11,14 @@ based on the customer balance and the items where in stock or not or are expired
 
 
 # Built with
-Java
-</br>
+<ul>
+  <li>
+    Java
+  </li>
+  <li>
 OOP principles
+  </li>
+</ul>
 
 🚀🚀🚀🚀🚀🚀🚀
 
